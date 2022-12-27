@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link dropdown-toggle{
+    color: white;
+}
